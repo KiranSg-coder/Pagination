@@ -1,0 +1,30 @@
+.employee-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.employee-table th,
+.employee-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.employee-table th {
+    background-color: #0b8a57;
+}
+
+.pagination {
+    margin-top: 10px;
+}
+
+.pagination button {
+    margin-right: 5px;
+    cursor: pointer;
+    background-color: #0b8a57;
+}
+
+.pagination span {
+    margin: 0 5px;
+}
